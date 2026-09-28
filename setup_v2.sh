@@ -6,7 +6,7 @@ echo "======================================"
 echo " Feedback Platform - V2 Setup"
 echo "======================================"
 
-# Vérifications OK
+# Vérifications 
 command -v php >/dev/null 2>&1 || {
     echo "❌ PHP n'est pas installé."
     exit 1
